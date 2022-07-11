@@ -51,6 +51,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
+  
   Hi I am Megan Briers. I'm an incoming
   MPhil student at the University of Cambridge 
   studying History and Philosophy of Science 
@@ -60,7 +61,9 @@ theme = "hugo-theme-shell"
   St Andrews with a first class degree in 
   Mathematics and Computer Science.
   
-  Click on the 
+  Click on the relevant links to find out more! 
+  
+  ✨
   
   """
 
@@ -73,11 +76,9 @@ theme = "hugo-theme-shell"
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["About me", "https://www.example.com/"],
-    ["History Research", "https://www.example.com/"],
-    ["Previous life (= computing and maths content)", "https://golang.org/"],
-    ["Academic CV", "/post/some-activity.md"],
-    ["LinkedIn", "/post/some-activity.md"],
-    ["Twitter", "/post/some-activity.md"],
-    ["Contact me", "/post/some-activity.md"],
+    ["👱🏻‍♀️ About me", "https://www.example.com/"],
+    ["✍️ History Research", "https://www.example.com/"],
+    ["🖥️ Computing Work", "https://golang.org/"],
+    ["📃 Academic CV", "/post/some-activity.md"],
+    ["💬 Contact me", "/post/some-activity.md"],
   ]
